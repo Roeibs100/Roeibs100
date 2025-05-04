@@ -5,14 +5,6 @@
 
 ---
 
-<dotlottie-player
-  src="https://lottie.host/34039246-a02f-4fab-a100-327580fd1e3c/nSRESCWRB1.lottie"
-  background="transparent"
-  speed="1"
-  style="width: 300px; height: 300px"
-  loop
-  autoplay
-></dotlottie-player>
 
 ## 🙋‍♂️ About Me
 
