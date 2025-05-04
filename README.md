@@ -52,11 +52,9 @@ Feel free to explore the repos and contribute ideas!
 🛡️ Cyber Security & Networking
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_Logo_2020.png" alt="Wireshark" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/QRadar_logo.svg" alt="QRadar" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Splunk_Logo_2017.svg" alt="Splunk" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Linux_logo.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://i0.wp.com/whatis.maltiverse.com/wp-content/uploads/2022/10/qradar.png?fit=640%2C640&ssl=1" alt="QRadar" width="40" height="40"/>
 </p>
+
 
 💻 Languages & Frameworks
 
