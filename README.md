@@ -46,12 +46,9 @@ Feel free to explore the repos and contribute ideas!
 
 ## 📫 Contact Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:roeibs10@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+<a href="mailto:roeibs10@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30">
+</a>
 
 
   
