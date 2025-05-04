@@ -52,10 +52,10 @@ Feel free to explore the repos and contribute ideas!
 🛡️ Cyber Security & Networking
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" alt="QRadar" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" alt="Splunk" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_Logo_2020.png" alt="Wireshark" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/QRadar_logo.svg" alt="QRadar" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Splunk_Logo_2017.svg" alt="Splunk" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Linux_logo.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 💻 Languages & Frameworks
