@@ -51,8 +51,12 @@ Feel free to explore the repos and contribute ideas!
 
 🛡️ Cyber Security & Networking
 
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/IBM_logo.svg" alt="QRadar" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Splunk_logo.svg" alt="Splunk" width="40" height="40"/> <img src="https://img.shields.io/badge/SIEM-FF6F00?style=flat&logo=siemens&logoColor=white" alt="SIEM" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Linux_logo.svg" alt="Linux" width="40" height="40"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="40" height="40"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" width="40" height="40"/> <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white" alt="VirusTotal" width="40" height="40"/> </p>
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/IBM_Logo.svg" alt="QRadar" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Splunk_logo.svg" alt="Splunk" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/SIEM_logo.svg" alt="SIEM" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Tux.svg" alt="Linux" width="40" height="40"/> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" alt="QRadar" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" alt="Splunk" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
 💻 Languages & Frameworks
 
