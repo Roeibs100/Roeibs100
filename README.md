@@ -4,7 +4,8 @@
 ### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
 
 ---
-<img align="right" alt="Cyber GIF" width="400" src="https://github.com/Roeibs100/cyber.gif/blob/main/cyber.git.gif?raw=true" />
+<img align="right" alt="Cyber GIF" width="400" src="https://github.com/Roeibs100/cyber.gif/blob/main/cyber_git_upscaled.gif?raw=true" />
+
 
 
 ## 🙋‍♂️ About Me
