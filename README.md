@@ -4,16 +4,7 @@
 ### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
 
 ---
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-<lottie-player
-    src="https://assets10.lottiefiles.com/packages/lf20_XXXXX.json"
-    background="transparent"
-    speed="1"
-    style="width: 400px; height: 400px;"
-    loop
-    autoplay>
-</lottie-player>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Roeibs100&theme=dark" height="250" width="350" alt="Streak Stats" /></p>
 
 
 ## 🙋‍♂️ About Me
