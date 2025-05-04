@@ -4,7 +4,6 @@
 ### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
 
 ---
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Roeibs100&theme=dark" height="250" width="350" alt="Streak Stats" /></p>
 
 
 ## 🙋‍♂️ About Me
