@@ -76,3 +76,6 @@ Feel free to explore the repos and contribute ideas!
   <img src="https://img.shields.io/badge/Security%20Tools-Nessus-003C54?style=flat&logo=nessus&logoColor=white" alt="Nessus" height="40" width="120"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=htb&theme=dark" height="250" width="350" alt="HTB Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tryhackme&theme=dark" height="250" width="350" alt="TryHackMe Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=security-logs&theme=dark" height="250" width="350" alt="SIEM Logs" /></p>
