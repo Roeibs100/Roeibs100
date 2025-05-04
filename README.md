@@ -4,28 +4,6 @@
 ### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>Lottie Animation</title>
-  </head>
-  <body>
-    <canvas id="canvas" width="300" height="300"></canvas>
-    <script type="module">
-      import { DotLottie } from "<https://cdn.jsdelivr.net/npm/@lottiefiles/dotlottie-web/+esm>";
-
-      new DotLottie({
-        autoplay: true,
-        loop: true,
-        canvas: document.getElementById("canvas"),
-        src: "<https://lottie.host/YOUR_ANIMATION_ID.lottie>", // replace with your .lottie or .json file URL
-      });
-    </script>
-  </body>
-</html>
-
 
 <dotlottie-player
   src="https://lottie.host/34039246-a02f-4fab-a100-327580fd1e3c/nSRESCWRB1.lottie"
