@@ -54,6 +54,10 @@ Feel free to explore the repos and contribute ideas!
 <p align="left">
   <img src="https://i0.wp.com/whatis.maltiverse.com/wp-content/uploads/2022/10/qradar.png?fit=640%2C640&ssl=1" alt="QRadar" width="40" height="40"/>
 </p> <p align="left"> <img src="https://www.defense.com/assets/blog/heros/managed-vs-unmanaged-siem-xl-57fcf2d76bab5ee3f14bda4146d06f23588750e982490243d90ec368f7570c2c.jpg" alt="SIEM" width="40" height="40"/>
+</p> <p align="left">
+  <img src="https://voiptrainers.com/wp-content/uploads/2024/09/Wireshark.webp" alt="Wireshark" width="40" height="40"/>
+</p> <p align="left">
+  <img src="https://cyberhoot.com/wp-content/uploads/2020/11/2-1024x565.jpg" alt="CyberHoot" width="40" height="40"/>
 </p>
 
 
