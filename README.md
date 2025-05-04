@@ -66,4 +66,13 @@ Feel free to explore the repos and contribute ideas!
   <img src="https://img.shields.io/badge/Monitoring-Nagios-2A9D8E?style=flat&logo=nagios&logoColor=white" alt="Nagios" height="40" width="120"/>
   <img src="https://img.shields.io/badge/Monitoring-Prometheus-FF5500?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" height="40" width="120"/>
 </p>
+<p><img src="https://img.shields.io/badge/Dashboard-Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk Dashboard" height="40" width="120"/></p>
+<p><img src="https://img.shields.io/badge/Firewall%20Tools-Palo%20Alto-ff7f00?style=flat&logo=paloaltonetworks&logoColor=white" alt="Palo Alto" height="40" width="120"/>
+<img src="https://img.shields.io/badge/WAF%20Tools-ModSecurity-74c0f0?style=flat&logo=modsecurity&logoColor=white" alt="ModSecurity" height="40" width="120"/>
+<p><img src="https://img.shields.io/badge/Threat%20Intel-MITRE%20ATT%26CK-FF5500?style=flat&logo=mitre&logoColor=white" alt="MITRE ATT&CK" height="40" width="200"/></p>
+<p>
+  <img src="https://img.shields.io/badge/Security%20Tools-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" height="40" width="120"/>
+  <img src="https://img.shields.io/badge/Security%20Tools-Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk" height="40" width="120"/>
+  <img src="https://img.shields.io/badge/Security%20Tools-Nessus-003C54?style=flat&logo=nessus&logoColor=white" alt="Nessus" height="40" width="120"/>
+</p>
 
