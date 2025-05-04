@@ -4,6 +4,19 @@
 ### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
 
 ---
+<script
+  src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs"
+  type="module"
+></script>
+
+<dotlottie-player
+  src="https://lottie.host/34039246-a02f-4fab-a100-327580fd1e3c/nSRESCWRB1.lottie"
+  background="transparent"
+  speed="1"
+  style="width: 300px; height: 300px"
+  loop
+  autoplay
+></dotlottie-player>
 
 ## 🙋‍♂️ About Me
 
@@ -54,7 +67,6 @@ Feel free to explore the repos and contribute ideas!
 
 
 
-- 🌱 Always learning. Always growing. Let’s connect and collaborate!
 
 🛡️ Cyber Security & Networking
 
