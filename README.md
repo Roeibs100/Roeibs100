@@ -1,7 +1,7 @@
 ![Surfing](https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131677/ComputerScience.org/cybersecurity_degrees_6720dc664/cybersecurity_degrees_6720dc664.jpg?_i=AA)
 # 👋 Hi, I'm Roei Ben Simon
 
-### 🛡️ Cyber Security Enthusiast | SOC & Networking | Lifelong Learner
+### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
 
 ---
 
@@ -11,7 +11,7 @@
 - 💼 Currently working in a NOC environment, focusing on network monitoring and cyber defense  
 - 📚 Completed courses: TryHackMe SOC Level 1, CCNA, LPI 1, System Administrator  
 - 🤓 Fast learner, problem-solver, and dedicated to continuous growth in the field  
-- 🌊 Surfing instructor and dog lover in my spare time  
+- 🌊 Surfing 
 
 ---
 
@@ -20,7 +20,7 @@
 - 🐍 **Python** (currently learning)
 - 🐧 **Linux** (user-level + basic administration)
 - 🧠 **SQL** (basic queries and investigation)
-- 🧰 **Security Tools**: Wireshark, Zeek, Splunk, TryHackMe
+- 🧰 **Security Tools**: Wireshark, Zeek, Splunk, TryHackMe 
 - 📊 **SIEM**: IBM QRadar (learning in progress)
 - 🌐 **Networking & Protocols**: TCP/IP, DNS, DHCP, OSPF, BGP
 - 📡 **Optical Communication**: GPON, XGSPON, ONT, OLT, ODN
@@ -51,19 +51,14 @@ Feel free to explore the repos and contribute ideas!
 
 ---
 ### Cyber Security & Networking
+- ![SIEM](https://img.shields.io/badge/SIEM-FF6F00?style=flat&logo=siemens&logoColor=white)
 - ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 - ![IBM QRadar](https://img.shields.io/badge/QRadar-052FAD?style=flat&logo=ibm&logoColor=white)
 - ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-- 
-## Languages and Tools:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+ - ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
 
 ### Languages & Frameworks
 
