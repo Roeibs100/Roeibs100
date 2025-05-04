@@ -4,6 +4,9 @@
 ### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
 
 ---
+<p align="center">
+  <img src="(https://lottie.host/34039246-a02f-4fab-a100-327580fd1e3c/nSRESCWRB1.lottie)" width="400" alt="Cyber Security Animation">
+</p>
 
 
 ## 🙋‍♂️ About Me
