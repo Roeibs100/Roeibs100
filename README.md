@@ -73,6 +73,7 @@ I'm committed to continuous learning and hands-on practice through:
   </a>
 </p>
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/roeibs10.png)](https://tryhackme.com/p/roeibs10)
 
 
 
