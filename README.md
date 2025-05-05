@@ -1,22 +1,24 @@
 ![Surfing](https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131677/ComputerScience.org/cybersecurity_degrees_6720dc664/cybersecurity_degrees_6720dc664.jpg?_i=AA)
-# 👋 Hi, I'm Roei Ben Simon
-
-### 🛡️ Cyber Security Enthusiast | SOC & Networking | Networking
-
+# 👋 Hi, I'm Roei Ben Simon  
+🛡️ Cybersecurity Enthusiast | SOC & Networking | Blue Team
 ---
 <img align="right" alt="Cyber GIF" width="400" src="https://github.com/Roeibs100/cyber.gif/blob/main/cyber_git_upscaled.gif?raw=true" />
 
 
-
 ## 🙋‍♂️ About Me
 
-- 🔐 Aspiring Cyber Security Analyst with a strong passion for SOC and Blue Team operations  
-- 💼 Currently working in a NOC environment, focusing on network monitoring and cyber defense  
-- 📚 Completed courses: TryHackMe SOC Level 1, CCNA, LPI 1, System Administrator  
-- 🤓 Fast learner, problem-solver, and dedicated to continuous growth in the field  
-- 🌊 Surfing 
+🔐 Aspiring Cybersecurity Analyst, currently studying **Cyber Defense Implementation** (מיישם הגנה בסייבר)  
+💼 Gaining hands-on experience in a **NOC environment**, with a focus on network monitoring and incident response  
+🌐 Solid foundation in **networking, information security**, and system administration  
+📚 Completed key courses: TryHackMe SOC Level 1, CCNA, LPI 1, System Administrator  
+🧠 Passionate about **SOC operations**, threat detection, and cybersecurity automation  
+📈 Dedicated to **continuous daily learning** through labs, simulations, and research  
+🌊 Also a surfer and world traveler – I believe in a balanced life full of curiosity and growth
 
 ---
+
+💡 My goal is to grow as a SOC Analyst by combining my technical knowledge, hands-on practice, and analytical mindset to defend against real-world cyber threats.
+
 
 ## 🛠️ Tools & Technologies
 
