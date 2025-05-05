@@ -46,10 +46,13 @@ Feel free to explore the repos and contribute ideas!
 
 ## 📫 Contact Me
 
-<a href="mailto:roeibs10@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30">
-</a> <h3 align="left"> </h3> <p align="left">  <a href="https://www.linkedin.com/in/roei-ben-simon-a83557329" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/roei-ben-simon-a83557329" height="30" width="40" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:roeibs10@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/roei-ben-simon-a83557329" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
