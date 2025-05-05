@@ -31,18 +31,33 @@
 
 ---
 
-## 📂 Projects & Learning Materials
+📂 Projects & Learning Materials
+Welcome to my GitHub! I use this space to share my cybersecurity learning journey and hands-on projects:
 
-I use this GitHub profile to share:
+🔎 Python scripts for automation, monitoring, and log parsing
+📁 PCAP analysis with tools like Wireshark and Zeek
+📄 Threat reports, malware analysis notes, and security research
+⚙️ Custom-built tools and enhancements for SOC and blue team tasks
 
-- 🔎 Python scripts for automation and monitoring  
-- 📁 PCAP analysis examples (Wireshark/Zeek)  
-- 📄 Security research reports and threat summaries  
-- ⚙️ Tools I've built or improved throughout my cyber journey
-
-Feel free to explore the repos and contribute ideas!
+💬 I'm always open to feedback, collaboration, and new ideas. Feel free to explore!
 
 ---
+## 🧭 My Cybersecurity Journey
+
+Coming from a technical background in NOC operations, I've developed a strong foundation in networking, monitoring, and incident handling.  
+My passion for cybersecurity drives me to specialize in SOC analysis, threat detection, and security automation.
+
+### 🔧 Currently focusing on:
+
+- Network protocols & packet analysis (Wireshark, Zeek)  
+- Log analysis, enrichment, and alerting  
+- Incident detection and response workflows  
+- Python scripting for automation and security tooling  
+
+I'm committed to continuous learning and hands-on practice through:
+- Labs and home lab setups  
+- CTFs and blue team challenges  
+- Real-world threat scenarios and simulations
 
 ## 📫 Contact Me
 
