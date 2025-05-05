@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-🔐 Aspiring Cybersecurity Analyst, currently studying **Cyber Defense Implementation** (מיישם הגנה בסייבר)  
+🔐 Aspiring Cybersecurity Analyst, currently studying **Cyber Defense Implementation**  
 💼 Gaining hands-on experience in a **NOC environment**, with a focus on network monitoring and incident response  
 🌐 Solid foundation in **networking, information security**, and system administration  
 📚 Completed key courses: TryHackMe SOC Level 1, CCNA, LPI 1, System Administrator  
@@ -73,9 +73,11 @@ I'm committed to continuous learning and hands-on practice through:
   </a>
 </p>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/roeibs10.png)](https://tryhackme.com/p/roeibs10)
-
-
+ <!-- TryHackMe -->
+  <a href="https://tryhackme.com/p/roeibs10" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/roeibs10.png" height="40" alt="TryHackMe"/>
+  </a>
+</p>
 
 🛡️ Cyber Security & Networking
 
