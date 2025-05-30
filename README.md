@@ -30,7 +30,6 @@
 - 🧰 **Security Tools**: Wireshark, Zeek, Splunk, TryHackMe 
 - 📊 **SIEM**: IBM QRadar (learning in progress)
 - 🌐 **Networking & Protocols**: TCP/IP, DNS, DHCP, OSPF, BGP
-- 📡 **Optical Communication**: GPON, XGSPON, ONT, OLT, ODN
 - 💾 **Git & GitHub** for version control and sharing projects
 
 ---
